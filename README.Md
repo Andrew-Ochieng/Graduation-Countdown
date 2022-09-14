@@ -23,8 +23,7 @@
 
 ## General info
 
-The legendary Star Wars film series, which includes both live-action and animated productions, is the foundation of the Star Wars store.
-This project is an online store where users may purchase Star Wars ships. It is styled after an eBay website, allowing users to login and search for ships, browse detail pages for additional ships, and access additional information about specific ships.
+This is a countdown timer built to show the remaining days to the Moringa School Cohort 26 2023 Graduation just so that the students can keep working hard knowing that there's light at the end of the tunnel.
 
 
 
